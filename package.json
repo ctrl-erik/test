@@ -4,6 +4,7 @@
   "description": "a test deployment",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\""
   },
   "author": "Erik Martinez",
